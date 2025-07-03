@@ -6,12 +6,17 @@
 }
 
 #banner {
-    background: linear-gradient(rgba(0, 0, 0, 0.5), #000f96), url(img/banner.jpg);
+    background: linear-gradient(rgba(0, 0, 0, 0.5), #4682B4), url(img/banner.jpg);
     background-size: cover;
     background-position: center;
     height: 100vh;
 }
-
+.logo{
+    width: 140px;
+    position: absolute;
+    top: 4%;
+    left: 10%;
+}
 .banner-text {
     text-align: center;
     color: white;
@@ -70,7 +75,7 @@
     position: fixed;
     right: -250px;
     top: 0;
-    background: #000f96;
+    background: #4682B4;
     z-index: 2;
     transition: 0.5s;
 }
@@ -86,6 +91,7 @@ nav ul li a {
 }
 
 #menubtn {
+    background: #4682B4;
     width: 50px;
     height: 50px;
     text-align: center;
@@ -98,7 +104,7 @@ nav ul li a {
 }
 
 #menubtn img {
-    width: 30px;
+    width: 20px;
     margin-top: 15px;
 
 }
@@ -116,7 +122,7 @@ nav ul li a {
 
 /* @media only screen and (max-width: 600px){
 body{
-    background-color: #000f96;
+    background-color: #4682B4;
 } */
 /* } */
 #feature {
@@ -133,7 +139,7 @@ body{
 .title-text p {
     margin: auto;
     font-size: 20px;
-    color: #000f96;
+    color: #4682B4;
     font-weight: bold;
     position: relative;
     z-index: 1;
@@ -144,7 +150,7 @@ body{
     content: '';
     width: 50px;
     height: 35px;
-    background: linear-gradient(#000f96, #fff);
+    background: linear-gradient(#4682B4, #ffffff);
     position: absolute;
     top: -25px;
     left: 3px;
@@ -180,14 +186,14 @@ body{
 .feature-img img {
     width: 55%;
     border-radius: 10px;
-    color: #000f96;
+    
 }
 
 .feature h1 {
     text-align: left;
     margin-bottom: 10px;
-    font-weight: 100;
-    color: #000f96;
+    font-weight: 100PX;
+    color: #4682B4;
 }
 
 .feature-desc {
@@ -202,8 +208,8 @@ body{
     font-size: 30px;
     line-height: 50px;
     border-radius: 8px;
-    color: #000f96;
-    border: 1px solid #000f96;
+    color: #4682B4;
+    border: 1px solid #4682B4;
 }
 
 .feature-txt p {
@@ -259,12 +265,12 @@ body{
 
 .overlay {
     width: 100%;
-    height: 100%;
+    height: 99%;
     position: absolute;
     top: 0;
     border-radius: 7px;
     cursor: pointer;
-    background: linear-gradient(rgba(0, 0, 0, 0.5), #000f96);
+    background: linear-gradient(rgba(0, 0, 0, 0.5), #4682B4);
     opacity: 0;
     transition: 1s;
 }
@@ -338,7 +344,7 @@ hr {
     padding: 10px;
     margin-bottom: 30px;
     border-radius: 5px;
-    box-shadow: 0 10px 20px 3px #000f96;
+    box-shadow: 0 10px 20px 3px #00968814;
     cursor: pointer;
     transition: transform .5s;
 }
@@ -361,12 +367,12 @@ hr {
 
 .user info .fa {
     margin-left: 3px;
-    color: #000f96;
+    color: #4682B4;
     font-size: 20px;
 }
 
 .user info small {
-    color: #000f96;
+    color: #4682B4;
 }
 
 .testimotion-col:hover {
@@ -415,7 +421,7 @@ hr {
 .footer-left .fa,
 .footer-right .fa {
     font-size: 20px;
-    color: #000f96;
+    color: #4682B4;
     margin: 10px;
 }
 
@@ -428,15 +434,15 @@ hr {
     width: 40px;
     font-size: 20px;
     line-height: 40px;
-    border: 1px solid #000f96;
+    border: 1px solid #4682B4;
     margin: 40px 5px 0;
-    color: #000f96;
+    color: #4682B4;
     cursor: pointer;
     transition: .5s;
 }
 
 .social-links .fa:hover {
-    background: #000f96;
+    background: #4682B4;
     color: #fff;
     transform: translateY(-7px);
 }
