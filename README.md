@@ -37,10 +37,14 @@ cd barber_responsive_website
 Website Article / Homepage Introduction:
 Welcome to [Your Barber Shop Name] – Where Style Meets Precision
 
-At [Barber Shop Name], we believe a great haircut isn’t just about looking sharp — it’s about feeling confident. Our team of experienced barbers is passionate about creating clean, stylish, and personalized looks for every client.
+At [Barber Shop Name], we believe a great haircut isn’t just about looking sharp —
+it’s about feeling confident. Our team of experienced barbers is passionate about creating clean, stylish
+, and personalized looks for every client.
 
-Whether you’re after a classic gentleman’s cut, a skin fade, beard sculpting, or a modern hairstyle, we’ve got the tools and the talent to make it happen.
+Whether you’re after a classic gentleman’s cut, a skin fade, beard sculpting, or a modern hairstyle,
+ we’ve got the tools and the talent to make it happen.
 
-Relax in our comfortable, modern space and enjoy grooming the way it should be — professional, personal, and always on point.
+Relax in our comfortable, modern space and enjoy grooming the way it should be — professional, persona
+l, and always on point.
 
 Walk-ins welcome. Book your appointment today and experience the difference.
