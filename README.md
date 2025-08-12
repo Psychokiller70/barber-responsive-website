@@ -35,3 +35,5 @@ Clone this repo & run it locally:
 git clone https://github.com/Psychokiller70/barber_responsive_website.git
 cd barber_responsive_website
 
+processing the website to responsive the small device
+
